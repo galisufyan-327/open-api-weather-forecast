@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Before start or build the App
 
-Run `cp configs/.env.example configs/.env` and set your api key there from project root folder in your terminal
+Run `cp configs/.env.example configs/.env` from project root folder in your terminal and set your api key there
 
 ## Available Scripts
 
